@@ -1,6 +1,6 @@
 **Rules**
 
-1. Don't harass or stalk users/moderators of our discord server.
+1. Your behaviour matters. Don't harass or stalk users/moderators of our discord server. Don't bait people with obnoxious behavior or pollute the chat with pages of personal beef.
 2. No spam is allowed.
 3. Don't break channel-specific rules (some channels have extra rules listed in their channel topic. Updates to channel rules are posted in pins).
 4. Don't speak any languages other than English in text channels.
