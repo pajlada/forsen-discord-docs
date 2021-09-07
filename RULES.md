@@ -4,7 +4,7 @@
 2. No Spam of any kind outside of #shitposting.
 3. Don't break channel-specific rules (some channels have extra rules listed in their channel topic. Updates to channel rules are posted in pins).
 4. Text Channels are english only, don't hold conversation in other languages (occasional single words or talking about another language is fine).
-5. No hate speech (e.g. racism, nazism, homophobia, sexism, transphobia, antisemitism). This includes saying the n-word.
+5. No hate speech (e.g. racism, nazism, homophobia, sexism, transphobia, antisemitism). Bad words are auto-filtered and will result in perma-mutes.
 6. Don't raid other Discord communities or Twitch channels.
 7. Don't break the Discord Rules of Conduct or Discord Community Guidelines.
 8. No ERP or forcing your kinks onto others. This basically boils down to: keep your kinks to yourself (this includes furries)
