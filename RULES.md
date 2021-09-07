@@ -12,6 +12,7 @@
 10. No shady/scam links. Link shorteners, QR codes, shady links, etc. may result in a warning or mute depending on the case. We won't click on them to check.
 11. No NSFW or Shock content. This includes adult content, puke/shit videos or images, Earrape videos, epilepsy emotes/gifs, extreme physical harm, very grotesque imagery etc.
 12. Discord stickers are prohibited in most channels. If your sticker gets autoremoved, take that as a hint.
+13. Circumventing mod-actions may result in a ban. If you're warned about your behaviour take it as a hint that you should stop whatever you're doing.
 
 These rules apply to images and voice chat too
 
