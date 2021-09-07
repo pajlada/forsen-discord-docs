@@ -1,7 +1,7 @@
 **Rules**
 
 1. Your behaviour matters. Don't harass or stalk users/moderators of our discord server. Don't bait people with obnoxious behavior or pollute the chat with pages of personal beef.
-2. No spam is allowed.
+2. No Spam of any kind outside of #shitposting.
 3. Don't break channel-specific rules (some channels have extra rules listed in their channel topic. Updates to channel rules are posted in pins).
 4. Don't speak any languages other than English in text channels.
 5. No hate speech (e.g. racism, nazism, homophobia, sexism, transphobia, antisemitism). This includes saying the n-word.
