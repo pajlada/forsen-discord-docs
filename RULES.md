@@ -7,7 +7,7 @@
 5. No hate speech (e.g. racism, nazism, homophobia, sexism, transphobia, antisemitism). Bad words are auto-filtered and will result in perma-mutes.
 6. Don't encourage, advertise, or participate in raiding of Discord Servers or Twitch Streams.
 7. Don't break the Discord Rules of Conduct or Discord Community Guidelines.
-8. No ERP or forcing your kinks onto others. This basically boils down to: keep your kinks to yourself (this includes furries)
+8. No ERP or forcing your kinks onto others. This basically boils down to: keep your kinks to yourself (this includes furries).
 9. Don't encourage or spread the ToS-breaking Twitch streams
 10. Considering the new QR code scams going around, you probably shouldn't be posting random QR codes without any context. Moderators won't check what the QR code is before handing out a mute or a ban :Smile:
 11. No adult content allowed.
