@@ -10,7 +10,7 @@
 8. No ERP or forcing your kinks onto others. This basically boils down to: keep your kinks to yourself (this includes furries).
 9. Don't encourage or spread the ToS-breaking Twitch streams.
 10. No shady/scam links. Link shorteners, QR codes, shady links, etc. may result in a warning or mute depending on the case. We won't click on them to check.
-11. No adult content allowed.
+11. No NSFW or Shock content. This includes adult content, puke/shit videos or images, Earrape videos, epilepsy emotes/gifs, extreme physical harm, very grotesque imagery etc.
 12. Discord stickers are prohibited in most channels. If your sticker gets autoremoved, take that as a hint.
 
 These rules apply to images and voice chat too
