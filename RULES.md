@@ -9,7 +9,7 @@
 7. Don't break the Discord Rules of Conduct or Discord Community Guidelines.
 8. No ERP or forcing your kinks onto others. This basically boils down to: keep your kinks to yourself (this includes furries).
 9. Don't encourage or spread the ToS-breaking Twitch streams.
-10. Considering the new QR code scams going around, you probably shouldn't be posting random QR codes without any context. Moderators won't check what the QR code is before handing out a mute or a ban :Smile:
+10. No shady/scam links. Link shorteners, QR codes, shady links, etc. may result in a warning or mute depending on the case. We won't click on them to check.
 11. No adult content allowed.
 12. Discord stickers are prohibited in most channels. If your sticker gets autoremoved, take that as a hint.
 
