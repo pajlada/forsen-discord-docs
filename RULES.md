@@ -19,3 +19,5 @@ We try to keep mute durations as uniform as possible, but it will vary depending
 Trying to circumvent the exact wording of the rules on purpose may result in it being judged as a normal rule break.
 
 Don't break channel-specific rules (some channels have extra rules listed in their channel topic. Updates to channel rules are posted in pins).
+
+The rules and their history can be found here: <https://github.com/pajlada/forsen-discord-docs/commits/master/RULES.md>
