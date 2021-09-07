@@ -14,9 +14,8 @@
 12. Discord stickers are prohibited in most channels. If your sticker gets autoremoved, take that as a hint.
 13. Circumventing mod-actions may result in a ban. If you're warned about your behaviour take it as a hint that you should stop whatever you're doing.
 
-These rules apply to images and voice chat too
+We try to keep mute durations as uniform as possible, but it will vary depending on activity of the user (new user or not), severity of the offense, previous infractions and overall behaviour of the user.
 
-Last update: 2021-07-01 (Added rule 12)
-Rule FAQ: <https://gist.github.com/pajlada/bcb9979f8246bde517939ba069789d63>
+Trying to circumvent the exact wording of the rules on purpose may result in it being judged as a normal rule break.
 
 Don't break channel-specific rules (some channels have extra rules listed in their channel topic. Updates to channel rules are posted in pins).
