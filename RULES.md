@@ -5,8 +5,8 @@
 3. No self-advertisement unless it happened out of a conversation, linking your stream when someone asks about or having it in your profile it is fine, but don't come in here selling your products. Ask a mod first.
 4. Text Channels are english only, don't hold conversation in other languages (occasional single words or talking about another language is fine).
 5. No hate speech (e.g. racism, nazism, homophobia, sexism, transphobia, antisemitism). Bad words are auto-filtered and will result in perma-mutes.
-6. Don't encourage, advertise, or participate in raiding of Discord Servers or Twitch Streams.
-7. Don't break the Discord Rules of Conduct or Discord Community Guidelines.
+6. Don't encourage, advertise, or participate in raiding of Discord Servers, Twitch Streams, or other social media.
+7. Don't break the Discord Rules of Conduct or Discord Community Guidelines. THIS INCLUDES DOXXING/IP SHIT. Including memes - we **cannot** read your mind to know your intent.
 8. No ERP or forcing your kinks onto others. This basically boils down to: keep your kinks to yourself (this includes furries).
 9. Don't encourage or spread the ToS-breaking Twitch streams.
 10. No shady/scam links. Link shorteners, QR codes, shady links, etc. may result in a warning or mute depending on the case. We won't click on them to check.
