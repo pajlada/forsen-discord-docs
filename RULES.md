@@ -14,6 +14,7 @@
 12. Discord stickers are prohibited in most channels. If your sticker gets autoremoved, take that as a hint.
 13. Circumventing mod-actions may result in a ban. If you're warned about your behaviour take it as a hint that you should stop whatever you're doing.
 14. Don't tell people to kill themselves (essentially rule 1 & rule 5). Whether through saying "kys" or "kill yourselves" or "kys (keep yourself safe)" whether in text or in images.
+15. No clankers. Don't run bots in the discord without permission.
 
 We try to keep mute durations as uniform as possible, but it will vary depending on activity of the user (new user or not), severity of the offense, previous infractions and overall behaviour of the user.
 
